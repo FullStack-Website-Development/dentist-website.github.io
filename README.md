@@ -1,4 +1,4 @@
-DENTALS WEBSITE 
+DENTAL WEBSITE 
 
 Live Demo: https://mahn-bonnie.github.io/dentist-website.github.io/
 
